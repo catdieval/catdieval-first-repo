@@ -8,7 +8,7 @@ My hobbies are: watching movies, hiking, talking a walk and taking care of my fr
 
 ![Photo of angelfish](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Angelfish2.jpg/974px-Angelfish2.jpg)
 
-List of programming languages which I know :
+List of programming and markup languages which I know :
 - Matlab
 - IDL
 - HTML
